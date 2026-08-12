@@ -1,6 +1,5 @@
-pyTelegramBotAPI
 python-telegram-bot
+telethon
 pyrogram
 tgcrypto
-telethon
 requests
